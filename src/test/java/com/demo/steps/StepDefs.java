@@ -25,7 +25,7 @@ public class StepDefs {
 
     private static final String propfilePath = "request.properties";
 
-    private  static final String HOST = "http://agilathon-app-my-first-sample-project.7e14.starter-us-west-2.openshiftapps.com";
+    private  static final String HOST = "http://agilathon-app-agilathonapp.7e14.starter-us-west-2.openshiftapps.com";
     //private  static final String HOST = "http://localhost:8088";
     private static final String RESOURCE_POST = "/policy/addPolicy";
     private static final String RESOURCE_DELETE = "/policy/deletePolicy/";
